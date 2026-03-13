@@ -1,0 +1,14 @@
+langchain==0.3.14
+langchain-openai==0.3.1
+langchain-community==0.3.14
+langchain-chroma==0.2.2
+chromadb==0.6.3
+openai==1.61.0
+streamlit==1.41.1
+pypdf==5.1.0
+docx2txt==0.8
+unstructured==0.16.17
+python-dotenv==1.0.1
+pytest==8.3.4
+pytest-asyncio==0.25.2
+tiktoken==0.8.0
